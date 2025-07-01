@@ -1,3 +1,4 @@
+
 # Drizzle
 
 _Drizzle is a lightweight file-sharing and messaging platform inspired by DC++._\
@@ -193,3 +194,4 @@ Peers on the network discover each other (in terms of usernames and IPs) through
 ![Item Downloading](./docs/media/downloading.png)
 ![User Consent Dialog](./docs/media/user_ack.png)
 ![Accepted File Download Successful](./docs/media/acked.png)
+![Screenshot from 2025-07-01 13-02-45](https://github.com/user-attachments/assets/654c546c-addb-450b-8443-3ad4aeaa2f9c)
